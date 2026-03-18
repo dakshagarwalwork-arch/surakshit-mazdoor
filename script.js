@@ -1,0 +1,1 @@
+console.log("Surakshit Mazdoor website loaded successfully.");
