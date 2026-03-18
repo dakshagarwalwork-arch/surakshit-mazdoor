@@ -109,10 +109,8 @@ img {
 }
 
 /* Menu */
-.nav-links {
-  display: flex;
-  list-style: none;
-  gap: 25px;
+.nav-links a {
+  color: #111; /* dark text on light background */
 }
 
 .nav-links li a {
